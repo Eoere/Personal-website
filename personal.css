@@ -1,0 +1,29 @@
+body{
+    
+    
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background-size: cover;
+}
+p{
+    font-style: italic;
+    font-size: larger;
+    float: left;
+}
+
+
+
+ul,li:hover ,a:hover{
+    display: block;
+    color: black;
+    
+
+}
+.Aboutme{
+    color:navy;
+    display: block;
+    
+}
+ul{
+    font-size: larger;
+    font-style: oblique;
+}
